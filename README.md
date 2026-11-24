@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Samgar Abdikozha
 
-<!--
-**Samgar-kz/Samgar-kz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Engineer | .NET & Full-Stack Developer
 
-Here are some ideas to get you started:
+Software engineer with experience in enterprise banking,
+financial automation, RESTful APIs, and full-stack
+application development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+
+- Backend: C#, .NET, ASP.NET Core, Entity Framework
+- Frontend: Vue.js, TypeScript, JavaScript
+- Databases: PostgreSQL, SQL Server, Oracle
+- DevOps: Docker, GitHub Actions, CI/CD
+- Other: Python, C, C++, Algorithms
+
+### Professional Background
+
+- Former Lead Full-Stack Developer at Otbasy Bank
+- Bachelor's degree in Computing Engineering and Software
+- Two-time ACM ICPC participant
+
+### Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/samgar-abdikozha/)
+- Open to software engineering opportunities in Canada
