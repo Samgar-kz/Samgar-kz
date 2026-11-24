@@ -19,7 +19,7 @@ automated unit and integration tests (xUnit, Testcontainers, Vitest), Docker Com
 GitHub Actions CI.
 
 Also on my GitHub: [agentprobe](https://github.com/Samgar-kz/agentprobe) — a Python harness for evaluating LLM-agent defences
-against indirect prompt injection, and [MentorOS](https://github.com/Samgar-kz/MentorOS) — an event-sourced AI tutor
+against indirect prompt injection.
 (FastAPI, Next.js, PostgreSQL).
 
 ## Experience
